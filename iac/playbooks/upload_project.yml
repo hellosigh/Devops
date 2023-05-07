@@ -1,0 +1,7 @@
+- name: Copy files to remote host
+  synchronize:
+    src: D:/Devops/dsti-devops-2023-project
+    dest: /home/vagrant/dsti_devops_project
+    mode: pull
+
+

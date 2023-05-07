@@ -1,0 +1,9 @@
+- name: Perform health check
+  command: python /path/to/remote/machine/manage.py check
+  register: health_check_result
+  ignore_errors: true
+
+- name: Fail if health check fails
+  fail:
+    msg: "Health check failed"
+  when: health_check_result.rc != 0
