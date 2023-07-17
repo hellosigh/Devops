@@ -16,9 +16,9 @@ Advanced SQL expression language for generating complex queries.
 Support for transactions, connection pooling, and other advanced database features.
 
 ### Author
-
--Manyank Bhandari- mayank.bhandari@edu.dsti.institute<br>
 -Ramesh Singh- ramesh-kumar.singh@edu.dsti.institute
+-Manyank Bhandari- mayank.bhandari@edu.dsti.institute<br>
+
 
 ### Mentors
   - Gonzalo Etse - gonzaloetjo@gmail.com
