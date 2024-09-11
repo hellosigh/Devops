@@ -85,9 +85,7 @@ http://localhost:4000/swagger/#/
 
 ![vagrant_file](https://user-images.githubusercontent.com/15153249/236623856-5ab2485c-1a2c-4067-977f-005b1f674823.png)
 
-*Docker hub
 
-![docker_hub_image](https://user-images.githubusercontent.com/15153249/236684865-20da5b7b-700b-408b-adbb-4e76dac36b4f.png)
 
 * k8s pods
 
